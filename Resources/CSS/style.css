@@ -46,6 +46,17 @@ p.footer
   {font-size: 17px;
   color: #E6E4E7;
   background-color: #6C6F75;
-text-align: center;}
+float: center;
+padding: 0;
+text-align: center;
+}
+p a {
+    padding: 0;
+    text-align: center;
+    color: #E6E4E7;
+}
+p a:hover {
+    background-color: #6C6F75;
+    color: #C4BBB8;
   span {font-size: 11px;
     color: #6C6F75;}
